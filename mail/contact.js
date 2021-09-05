@@ -18,7 +18,7 @@ $(function () {
                 url: "contact.php",
                 type: "POST",
                 data: {
-                    name: name,
+                    name: name, 
                     email: email,
                     subject: subject,
                     message: message
